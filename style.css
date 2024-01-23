@@ -38,6 +38,18 @@ a {
     margin-right: 70px;
 }
 
+.parte75{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5%;
+}
+
+.parte76{
+    color: #fff;
+    justify-content: center;
+    padding: 20px 0px 0px 20px;
+}
 
 .img {
     display: flex;
